@@ -1,0 +1,33 @@
+.header{
+    
+    display: flex;
+    justify-content: space-beetween;
+    
+  
+  }
+  
+.prof_img{
+  
+    display: block;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin-left: 800px;
+  }
+
+.header_heading{
+    font-size: 33px;
+  }
+
+
+.header_tagline{
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+.user_img{
+  padding-left: 850px;
+  padding-top: 10px;
+}
+
+

@@ -1,0 +1,52 @@
+.widget_time {
+  color: white;
+  font-weight: 400;
+  font-size: 48px;
+}
+
+.widget_date {
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.widget_weather {
+  margin-top: 38px;
+}
+
+.widget_weather_temp {
+  color: white;
+}
+
+.widget_weather_humidity {
+  color: white;
+}
+
+.icon_bg{
+
+  background-color: rgb(138, 138, 138);
+  border-radius: 100px;
+  padding-top: 20px;
+  margin-top: -20px;
+  height: 50px;
+  width: 50px;
+  margin-left: 20px;
+
+}
+
+.weather_icons{
+
+  margin-left: 10px;
+  margin-top: -10px;
+  
+
+}
+
+.widget_temp{
+  display: flex;
+  gap: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
